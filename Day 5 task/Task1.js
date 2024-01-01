@@ -53,7 +53,7 @@ let myResume = {
 var obj1 = JSON.stringify(myResume);
 // console.log(obj1);
 var obj = JSON.parse(obj1);
-
+// console.log(obj);
 // for loop
 console.log("\n for loop");
 let keys = Object.keys(obj);
