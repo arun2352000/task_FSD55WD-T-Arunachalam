@@ -1,0 +1,9 @@
+the below day 7 task contains one HTML and one JS file
+kindly execute the HTML file 
+go to the console to view the output results
+Task 1:  Get all the countries from Asia continent /region using the Filter function
+Task 2: Get all the countries with a population of less than 2 lakhs using the Filter function
+Task 3: Print the following details name, capital, flag, using forEach function
+Task 4: Print the total population of countries using reduce function
+Task 5: Print the country that uses US dollars as currency.
+
